@@ -1,4 +1,4 @@
-module ssh-mcp
+module github.com/jonhadfield/ssh-mcp
 
 go 1.24
 
