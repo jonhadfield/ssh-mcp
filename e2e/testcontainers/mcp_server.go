@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"ssh-mcp/internal/server"
+	"github.com/jonhadfield/ssh-mcp/internal/server"
 
 	mcpserver "github.com/mark3labs/mcp-go/server"
 )

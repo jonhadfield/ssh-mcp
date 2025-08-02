@@ -5,10 +5,10 @@ import (
 
 	"github.com/mark3labs/mcp-go/mcp"
 
-	"ssh-mcp/internal/file"
-	"ssh-mcp/internal/security"
-	"ssh-mcp/internal/session"
-	"ssh-mcp/internal/ssh"
+	"github.com/jonhadfield/ssh-mcp/internal/file"
+	"github.com/jonhadfield/ssh-mcp/internal/security"
+	"github.com/jonhadfield/ssh-mcp/internal/session"
+	"github.com/jonhadfield/ssh-mcp/internal/ssh"
 )
 
 // getStringOrEmpty safely converts an interface value to string

@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"ssh-mcp/internal/server"
+	"github.com/jonhadfield/ssh-mcp/internal/server"
 )
 
 func main() {

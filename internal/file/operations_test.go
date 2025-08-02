@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"ssh-mcp/internal/session"
+	"github.com/jonhadfield/ssh-mcp/internal/session"
 )
 
 // TestNewOperations tests the NewOperations function

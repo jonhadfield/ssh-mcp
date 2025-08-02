@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"ssh-mcp/internal/session"
+	"github.com/jonhadfield/ssh-mcp/internal/session"
 
 	"golang.org/x/crypto/ssh"
 )

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"ssh-mcp/internal/session"
+	"github.com/jonhadfield/ssh-mcp/internal/session"
 )
 
 func TestGenerateSessionID(t *testing.T) {

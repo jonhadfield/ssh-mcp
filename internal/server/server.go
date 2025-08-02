@@ -9,8 +9,8 @@ import (
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 
-	"ssh-mcp/internal/security"
-	"ssh-mcp/internal/session"
+	"github.com/jonhadfield/ssh-mcp/internal/security"
+	"github.com/jonhadfield/ssh-mcp/internal/session"
 )
 
 // Config holds configuration for the MCP server

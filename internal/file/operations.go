@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"ssh-mcp/internal/session"
+	"github.com/jonhadfield/ssh-mcp/internal/session"
 )
 
 // Operations handles file transfer and directory operations over SSH
